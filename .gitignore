@@ -1,0 +1,15 @@
+# Ambiente virtual
+venv/
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de IDEs
+.vscode/
+.idea/
+
+# CSVs grandes (se quiser, pode deixar)
+# data/*.csv
